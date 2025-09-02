@@ -9,18 +9,18 @@ import SelecaoPerfil from "../Components/SelecaoPerfil";
 function Profile () {
   
   const usuario1 = {
-    nome: 'Guilherme',
-    foto: eleven
-    
-  };
-  const usuario2 = {
-    nome: 'Givanildo',
+    nome: 'Lucas',
     foto: lacasa
     
   };
-  const perfilkids = {
-    nome: 'Kids',
+  const usuario2 = {
+    nome: 'Luna',
     foto: kids
+    
+  };
+  const perfilkids = {
+    nome: 'Luk',
+    foto: eleven
     
   };
   const adicionarperfil = {
